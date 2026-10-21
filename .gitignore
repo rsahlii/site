@@ -1,2 +1,5 @@
 .*
 !.gitignore
+/.quarto/
+!_*.yaml
+_*

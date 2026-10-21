@@ -1,7 +1,13 @@
 ---
-title: ""
+title: "Rachid Sahli"
+about: 
+    template: solana
+
+links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/rachidsahli/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#hero-heading}
+:::

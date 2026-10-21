@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: " "
+  title: "Rachid Sahli"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: À propos
       - about.qmd
 
 format:
