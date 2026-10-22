@@ -12,5 +12,12 @@
     "title": "Accueil",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

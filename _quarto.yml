@@ -7,7 +7,10 @@ website:
     left:
       - href: index.qmd
         text: À propos
-      - about.qmd
+      - href: projet.qmd
+        text: Projets
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
