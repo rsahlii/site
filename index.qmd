@@ -1,13 +1,29 @@
 ---
 title: "Rachid Sahli"
-about: 
-    template: solana
 
-links:
+about:
+  image-width: 13em
+  image: image/chardonneret_profil.jpg
+  template: solana
+  links:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/rachidsahli/
+    - icon: github
+      text: Github
+      href: https://github.com/rsahlii
+    - text: "<img src='image/icon_leetcode.svg' width='17';/> Leetcode"
+      href: https://leetcode.com/u/Rachidsahli/
+    - icon: book
+      text: CV
+      # href: 
+    - icon: envelope
+      text: Mail
+      href: mailto:sahlirachid427@gmail.com
 ---
 
 ::: {#hero-heading}
+
+
+
 :::
