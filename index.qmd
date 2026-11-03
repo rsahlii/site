@@ -1,14 +1,19 @@
 ---
 title: "Rachid Sahli"
-
+description: "Site personnel"
+image: image/chardonneret_profil.jpg
+toc: false
 about:
   image-width: 13em
-  image: image/chardonneret_profil.jpg
   template: solana
   links:
+    - icon: envelope
+      text: Mail
+      href: mailto:sahlirachid427@gmail.com
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/rachidsahli/
+
     - icon: github
       text: Github
       href: https://github.com/rsahlii
@@ -17,13 +22,15 @@ about:
     - icon: book
       text: CV
       # href: 
-    - icon: envelope
-      text: Mail
-      href: mailto:sahlirachid427@gmail.com
 ---
 
-::: {#hero-heading}
+:::{#about-hero}
 
+Je suis élève ingénieur à l'École nationale supérieure d'informatique pour l'industrie et l'entreprise ([ENSIIE](https://www.ensiie.fr/)).
+J’ai travaillé pendant deux ans en tant qu’apprenti programmeur statistique à l'[INSEE](https://www.insee.fr/fr/accueil/) , au sein du projet [RéSIL](https://www.insee.fr/fr/information/7748883).
 
 
 :::
+
+## Actualités
+

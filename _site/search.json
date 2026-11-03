@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Accueil",
+    "title": "Rachid Sahli",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Je suis élève ingénieur à l’École nationale supérieure d’informatique pour l’industrie et l’entreprise (ENSIIE). J’ai travaillé pendant deux ans en tant qu’apprenti programmeur statistique à l’INSEE , au sein du projet RéSIL."
   },
   {
     "objectID": "blog.html",
@@ -19,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#actualités",
+    "href": "index.html#actualités",
+    "title": "Rachid Sahli",
+    "section": "Actualités",
+    "text": "Actualités"
   }
 ]
